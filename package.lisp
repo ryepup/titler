@@ -1,5 +1,5 @@
 ;;;; package.lisp
 
 (defpackage #:titler
-  (:use #:cl))
+  (:use #:cl #:vecto #:iterate))
 
